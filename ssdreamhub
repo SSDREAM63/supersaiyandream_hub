@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({IntroText = "Hi",Name = "Cathe Hub", HidePremium = true, SaveConfig = true, ConfigFolder = "c1ps hub"})
+local Window = OrionLib:MakeWindow({IntroText = "Nigger Kys",Name = "Cathe Hub", HidePremium = true, SaveConfig = true, ConfigFolder = "c1ps hub"})
 local Zort = game:GetService("Players").LocalPlayer
 local userInputService = game:GetService("UserInputService")
 --Value lar
